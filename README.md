@@ -40,3 +40,13 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
+
+![](https://cdn.discordapp.com/attachments/740174834927140925/829730991702409266/2021-04-06_15_27_19.656-0300.jpg)
+##Pedro Alvarez Certo, tenho 15 anos gosto de jogar videogame, basquete e assistir séries. Acho programação muito interessante porém não gosto muito de programar e nesse trabalho eu ajudei a arrumar os códigos
+
+![](https://cdn.discordapp.com/attachments/740174834927140925/829731122639667210/Screenshot_20210408-115459.jpg)
+##Eduardo De  Paula Fraga Geronymo, tenho 15 anos , gosto de brincar com meus cachorros, jogar videogame e ver filmes e séries. Gosto de programar porisso quis arrumar e partes dos códigos
+
+![](https://cdn.discordapp.com/attachments/740174834927140925/829731140146954310/Screenshot_20210408-115439.jpg)
+##João Gabriel De Bortoli Ribeiro, tenho 15 anos, gosto de jogar futebol, de jogar videogame e falar com meus amigos. Não gosto muito de programar então escolhi fazer o Redme
+
