@@ -41,7 +41,7 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
 
-! [](https://cdn.discordapp.com/attachments/740174834927140925/829730991702409266/2021-04-06_15_27_19.656-0300.jpg)
+![](https://cdn.discordapp.com/attachments/740174834927140925/829730991702409266/2021-04-06_15_27_19.656-0300.jpg)
 # Pedro Alvarez Certo, tenho 15 anos gosto de jogar videogame, basquete e assistir séries. Acho que programação muito interessante porém não gosto muito de programar e nesse trabalho eu ajudei a arrumar os códigos
 
 ![](https://cdn.discordapp.com/attachments/740174834927140925/829731122639667210/Screenshot_20210408-115459.jpg)
